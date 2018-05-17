@@ -1,5 +1,15 @@
-.App {
+.App-header {
   text-align: center;
+}
+
+.App-content {
+  margin: 20px;
+}
+
+.App-links {
+  font-size: 2em;
+  cursor: pointer;
+  text-emphasis: none;
 }
 
 .App-logo {
